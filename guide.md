@@ -14,7 +14,7 @@
 - 教室は、第3エリアにある3B棟の3B311号室です。
 - 「B」と書かれた建物の3階にあります。
 - 迷ったときは、近くの親切な筑波大学生に尋ねましょう。
-- ![バス停から教室までの適当な地図](google-map-of-3rd-area.png)
+- ![バス停から教室までの適当な地図](https://github.com/gitpractice-enpit/tsukubaguide_3/blob/update-access-info/google-map-of-3rd-area.png)
 
 ## つくばでのオススメの買い物先
 

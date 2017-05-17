@@ -11,9 +11,17 @@
 
 ### リアル店舗
 
-- [スーパーセンタートライアル つくば学園都市店](https://www.google.co.jp/maps/place/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%AB+%E3%81%A4%E3%81%8F%E3%81%B0%E5%AD%A6%E5%9C%92%E9%83%BD%E5%B8%82%E5%BA%97/@36.0959427,140.0869554,15z/data=!4m5!3m4!1s0x0:0xd37db2ffd80f20a3!8m2!3d36.0959427!4d140.0869554)
+- スーパーセンタートライアル つくば学園都市店([Google マップ](https://www.google.co.jp/maps/place/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%AB+%E3%81%A4%E3%81%8F%E3%81%B0%E5%AD%A6%E5%9C%92%E9%83%BD%E5%B8%82%E5%BA%97/@36.0959427,140.0869554,15z/data=!4m5!3m4!1s0x0:0xd37db2ffd80f20a3!8m2!3d36.0959427!4d140.0869554))
 
   - 食料品や生活用品、文具から衣服類まで幅広く取り扱うスーパーです。
+
+- [イーアスつくば](http://tsukuba.iias.jp/)([Google マップ](https://www.google.co.jp/maps/place/iias+%E3%81%A4%E3%81%8F%E3%81%B0/@36.0863829,140.0839801,15z/data=!4m5!3m4!1s0x0:0xb869f558b2481e62!8m2!3d36.0863829!4d140.0839801))
+
+  - 書店や百円ショップ、衣料品類、ブランド品専門店などの複合施設です。
+
+- [PC DEPOT](http://www.pcdepot.co.jp/shop/info/01071.html)([Google マップ](https://www.google.co.jp/maps/place/%E3%83%94%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%87%E3%83%9D+(PC+DEPOT)%E3%81%A4%E3%81%8F%E3%81%B0%E7%A0%94%E7%A9%B6%E5%AD%A6%E5%9C%92%E5%BA%97/@36.076312,140.085944,15z/data=!4m2!3m1!1s0x0:0x901a7adac52379b7?sa=X&ved=0ahUKEwjK8KbVmPbTAhVEJJQKHU08AJoQ_BIIejAK))
+
+  - apple製品の取り扱いがある家電量販店です。
 
 ### ネット店舗
 
